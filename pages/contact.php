@@ -65,7 +65,7 @@
             </form>
 
             <div class="text-center text-md-left">
-                <a href="?page=contact" class="btn btn-primary mr-1">Send</a>
+                <a href="?page=about" class="btn btn-primary mr-1">Send</a>
             </div>
             <div class="status"></div>
         </div>
